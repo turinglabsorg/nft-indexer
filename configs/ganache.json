@@ -1,0 +1,9 @@
+{
+    "network": "ganache",
+    "contract_address": "THIS_FIELD_WILL_BE_AUTO_COMPILED",
+    "owner_mnemonic": "YOUR_MNEMONIC_KEY",
+    "owner_address": "YOUR_FIRST_ADDRESS",
+    "provider": "http://localhost:8545",
+    "contract_name": "NFTIndexer",
+    "polygonscan_key": "YOUR_KEY"
+}

@@ -1,0 +1,9 @@
+{
+    "network": "mumbai",
+    "contract_address": "0x9f9C4ED4e015df9f997b29DAfe82B3245562A368",
+    "owner_mnemonic": "level venue crew odor attack uncover flush steak club lumber pupil nerve",
+    "owner_address": "0x692b340915Eb661CB3AD878Db4ca44B57Ea8Dc2a",
+    "provider": "https://polygon-mumbai.g.alchemy.com/v2/rzUenKFpIl4kGyQ_Z2qaeOzj8Xoc34P0",
+    "contract_name": "NFTIndexer",
+    "scan_key": "CI1U9JUBM1TURUJ7E63Z6KPVJ5VZGZVPI4"
+}
